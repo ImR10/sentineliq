@@ -34,4 +34,4 @@ build/
 
 
 ### AWS stuff ###
-application.properties
+**/application.properties
